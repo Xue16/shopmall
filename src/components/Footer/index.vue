@@ -3,7 +3,7 @@
     <div class="footer-container">
       <div class="footerList">
         <div class="footerItem">
-          <h4>购物指南</h4>
+          <h4>购物指南 购物指南</h4>
           <ul class="footerItemCon">
             <li>购物流程</li>
             <li>会员介绍</li>
@@ -33,7 +33,7 @@
           </ul>
         </div>
         <div class="footerItem">
-          <h4>售后服务ceshishishi</h4>
+          <h4>售后服务</h4>
           <ul class="footerItemCon">
             <li>售后政策</li>
             <li>价格保护</li>
