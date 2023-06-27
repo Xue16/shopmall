@@ -6,7 +6,7 @@
           <h4>购物指南 购物指南</h4>
           <ul class="footerItemCon">
             <li>购物流程 购物流程</li>
-            <li>会员介绍</li>
+            <li>会员介绍 会员介绍</li>
             <li>生活旅行/团购</li>
             <li>常见问题</li>
             <li>购物指南</li>
